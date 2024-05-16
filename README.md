@@ -1,2 +1,2 @@
-# ImageGallery
-Horizontal Scrolling Image Gallery.
+# Imagecarousel
+Horizontal Scrolling Image carousel.
